@@ -11,6 +11,6 @@
 V1.0.0A 2023.8.12  
 初版
 ## 引用的开源项目
-[MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
-[LibVLCsharp](https://code.videolan.org/videolan/LibVLCSharp)
-[Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json)
+[MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)  
+[LibVLCsharp](https://code.videolan.org/videolan/LibVLCSharp)  
+[Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json)  
