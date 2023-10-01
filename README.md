@@ -10,8 +10,12 @@
 第二位或字母（如果有）：
 **F**：表示该版本为定制版，仅在小范围内传播，且不开源
 ## 更新日志
-V1.0.0A 2023.8.12  
-初版
+- V1.0.0A 2023.8.12  
+  初版
+- V1.0.2B 2023.9.3
+  首个Beta版本，G2信号源正常
+- V1.1.0B 2023.10.1
+  完善登录界面相关逻辑
 ## 引用的开源项目
 [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)  
 [LibVLCsharp](https://code.videolan.org/videolan/LibVLCSharp)  
