@@ -12,9 +12,9 @@
 ## 更新日志
 - V1.0.0A 2023.8.12  
   初版
-- V1.0.2B 2023.9.3
+- V1.0.2B 2023.9.3  
   首个Beta版本，G2信号源正常
-- V1.1.0B 2023.10.1
+- V1.1.0B 2023.10.1  
   完善登录界面相关逻辑
 ## 引用的开源项目
 [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)  
