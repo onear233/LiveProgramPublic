@@ -29,15 +29,15 @@
   10.支持了播放时静音
   
  -下一版本预计实现
-  - [] 自由声音调整
-  - [] 颜色更改
-  - [] 激进自动开课
-  - [] 未播放时的图片展示
-  - [] 缓冲时间 
-  - [] 播放罗盘支持开启/关闭
-  - [] 清除记住的密码
-  - [] 播放书签功能
-  - [] 暂停功能（提示暂停了多久）
+  - [ ] 自由声音调整
+  - [ ] 颜色更改
+  - [ ] 激进自动开课
+  - [ ] 未播放时的图片展示
+  - [ ] 缓冲时间 
+  - [ ] 播放罗盘支持开启/关闭
+  - [ ] 清除记住的密码
+  - [ ] 播放书签功能
+  - [ ] 暂停功能（提示暂停了多久）
 ## 引用/参考的开源项目
 [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)  
 [LibVLCsharp](https://code.videolan.org/videolan/LibVLCSharp)  
