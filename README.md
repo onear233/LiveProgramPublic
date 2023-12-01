@@ -9,7 +9,7 @@
 **C**：表示该版本已经基本稳定，正常状态下没有bug 
 第二位或字母（如果有）：
 **F**：表示该版本为定制版，仅在小范围内传播，且不开源
-## 更新日志
+## 更新日志（部分）
 - V1.0.0A 2023.8.12  
   初版
 - V1.0.2B 2023.9.3  
@@ -29,16 +29,16 @@
   10.支持了播放时静音
   
  -下一版本预计实现
-  [] 自由声音调整
-  [] 颜色更改
-  [] 激进自动开课
-  [] 未播放时的图片展示
-  [] 缓冲时间 
-  [] 播放罗盘支持开启/关闭
-  [] 清除记住的密码
-  [] 播放书签功能
-  [] 暂停功能（提示暂停了多久）
-## 引用的开源项目
+  [-] 自由声音调整
+  [-] 颜色更改
+  [-] 激进自动开课
+  [-] 未播放时的图片展示
+  [-] 缓冲时间 
+  [-] 播放罗盘支持开启/关闭
+  [-] 清除记住的密码
+  [-] 播放书签功能
+  [-] 暂停功能（提示暂停了多久）
+## 引用/参考的开源项目
 [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)  
 [LibVLCsharp](https://code.videolan.org/videolan/LibVLCSharp)  
 [Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json) 
