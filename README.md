@@ -47,3 +47,4 @@
 [LibVLCsharp](https://code.videolan.org/videolan/LibVLCSharp)  
 [Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json) 
 [FFMpeg](https://github.com/FFmpeg/FFmpeg)
+[ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
