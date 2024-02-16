@@ -45,6 +45,6 @@
 ## 引用/参考的开源项目
 [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)  
 [LibVLCsharp](https://code.videolan.org/videolan/LibVLCSharp)  
-[Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json) 
-[FFMpeg](https://github.com/FFmpeg/FFmpeg)
-[ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)
+[Newtonsoft.JSON](https://github.com/JamesNK/Newtonsoft.Json)  
+[FFMpeg](https://github.com/FFmpeg/FFmpeg)  
+[ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)  
